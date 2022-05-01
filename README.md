@@ -1,3 +1,7 @@
+---
+typora-root-url: ./
+---
+
 #  PID_Stm32_Constant_temp_control
 
 #### 介绍
@@ -7,11 +11,10 @@ stm32通过PID算法智能化调节室内温度
 软件架构说明
 
 
-#### 安装教程
+#### 仿真图如下
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  ![1](/1.png)
+1.  ![2](/2.png)
 
 #### 使用说明
 
